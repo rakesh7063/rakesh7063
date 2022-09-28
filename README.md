@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @rakesh7063<br><br>👀 I’m interested in Playing video game, Listening Music
 
+![readme_header](https://user-images.githubusercontent.com/105923141/192811233-93738148-9dc7-4e3f-8bd6-48fc24c15434.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rakesh Kandar) 
