@@ -1,7 +1,7 @@
 [![MasterHead](https://media-fastly.hackerearth.com/media/hackathon/paypal-java-backend-developer-assesment/images/fbf8b994b2-Paypal_cover_image_Java_Backend.png)](https://rakesh7063.io)
 <h1 align="center">Hi 👋, I'm Rakesh Kandar</h1>
 <h3 align="center">A passionate java backend developer</h3>
-<img align="right" alt="Coding" width="600" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
+<img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
 
 # 💫 About Me:
 👯 I’m looking to collaborate on Good Tech Skills<br>🌱 I’m currently learning Full Stack Web Development<br>📫 How to reach me: rakeshkandar2021@gmail.com<br>👯 Interested in backend technologies....<br>👯 Self Motivated<br>⚡ Quick learner<br>💬 Ask me about Java,Javascript, HTML, CSS, DSA
