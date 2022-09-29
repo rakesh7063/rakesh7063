@@ -1,7 +1,8 @@
 [![MasterHead](https://media-fastly.hackerearth.com/media/hackathon/paypal-java-backend-developer-assesment/images/fbf8b994b2-Paypal_cover_image_Java_Backend.png)](https://rakesh7063.io)
 <h1 align="center">Hi 👋, I'm Rakesh Kandar</h1>
 <h3 align="center">A passionate java backend developer</h3>
-<img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
+</br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
 👯 I’m looking to collaborate on Good Tech Skills<br>🌱 I’m currently learning Full Stack Web Development<br>📫 How to reach me: rakeshkandar2021@gmail.com<br>👯 Interested in backend technologies....<br>👯 Self Motivated<br>⚡ Quick learner<br>💬 Ask me about Java,Javascript, HTML, CSS, DSA
@@ -16,8 +17,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rakesh7063&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=spp96&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spp96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rakesh7063&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh7063&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
