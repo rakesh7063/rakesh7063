@@ -1,9 +1,10 @@
 [![MasterHead](https://media-fastly.hackerearth.com/media/hackathon/paypal-java-backend-developer-assesment/images/fbf8b994b2-Paypal_cover_image_Java_Backend.png)](https://rakesh7063.io)
 <h1 align="center">Hi 👋, I'm Rakesh Kandar</h1>
-<p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+and+App+Developer;Rising+Java+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
-</p>
+
 <h3 align="center">A passionate java backend developer</h3>
+<p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Rising+Java+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
+</p>
 </br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
