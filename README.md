@@ -42,7 +42,7 @@
 
 ---
 
-<a href="https://github.com/rakesh7063/github-readme-activity-graph"><img alt="Rakesh Kandar's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=rakesh7063&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/rakesh7063/github-readme-activity-graph"></a>
 
 
 <p align="center">
