@@ -1,4 +1,4 @@
-[![MasterHead](https://media-fastly.hackerearth.com/media/hackathon/paypal-java-backend-developer-assesment/images/fbf8b994b2-Paypal_cover_image_Java_Backend.png)](https://rakesh7063.io)
+[![Beige and White Modern LinkedIn Background Photo](https://user-images.githubusercontent.com/105923141/236609044-94082b19-cf99-443f-9d23-fec67f8ca1a8.png)](https://rakesh7063.io)
 <h1 align="center">Hi 👋, I'm Rakesh Kandar</h1>
 
 <h3 align="center">A passionate java backend developer</h3>
