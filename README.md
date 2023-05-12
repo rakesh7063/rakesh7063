@@ -14,7 +14,7 @@
 -  🌱 Interested in ****backend technologies....****
 - 🌱 I’m currently learning  ****Spring Boot****
 
-- 👨‍💻 Checkout my portfolio [My Portfolio](https://rakesh7063.github.io/#)
+- 👨‍💻 Checkout my portfolio [My Portfolio](https://rakesh7063.github.io)
 
 - 💬 Ask me about ***Java, Spring Boot, Javascript, Hibernate***
 
